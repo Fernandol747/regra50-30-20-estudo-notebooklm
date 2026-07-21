@@ -6,9 +6,13 @@ O assunto escolhido para o caderno temático foi a estratégia 50/30/20 sobre o 
 
 # Curadoria de Fontes:
 [50/30/20 é realista?](https://www.reddit.com/r/personalfinance/comments/1hppfn5/is_503020_realistic/)
+
 [All Your Worth: The Ultimate Lifetime Money Plan](https://books.google.com.br/books/about/All_Your_Worth.html?hl=id&id=cr5EAQAAIAAJ&redir_esc=y)
+
 [Revisiting 50/30/20 for 2026](https://www.mapscu.com/blogs/revisiting-50-30-20-for-2026/)
+
 [Estratégias inteligentes para maximizar seu salário mensal ](https://www.sicoob.com.br/web/sicoobcredicapital/blog/-/blogs/estrategias-inteligentes-para-maximizar-seu-salario-mensal)
+
 [Conheça o método 50-30-20](https://www.sicredi.com.br/coop/altosdaserra/noticias/produtos-e-servicos/conheca-o-metodo-50-30-20-para-deixar-suas-financas-em-ordem/)
 
 # Engenharia de Prompts e "Cicatrizes": 
@@ -67,6 +71,7 @@ Nesse prompt, o modelo ja estava bem compreendido com o assunto, então eu fui m
 # Miniguia de Estudo
 
 [Vídeo explicativo](https://github.com/user-attachments/assets/dc7cfc59-43e3-4506-8765-defe1e08f4de)
+
 [The_50_30_20_Blueprint.pdf](https://github.com/user-attachments/files/30245413/The_50_30_20_Blueprint.pdf)
 
 # Conceitos aprendidos
