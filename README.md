@@ -10,3 +10,33 @@ O assunto escolhido para o caderno temático foi a estratégia 50/30/20 sobre o 
 [Revisiting 50/30/20 for 2026](https://www.mapscu.com/blogs/revisiting-50-30-20-for-2026/)
 [Estratégias inteligentes para maximizar seu salário mensal ](https://www.sicoob.com.br/web/sicoobcredicapital/blog/-/blogs/estrategias-inteligentes-para-maximizar-seu-salario-mensal)
 [Conheça o método 50-30-20](https://www.sicredi.com.br/coop/altosdaserra/noticias/produtos-e-servicos/conheca-o-metodo-50-30-20-para-deixar-suas-financas-em-ordem/)
+
+# Engenharia de Prompts e "Cicatrizes": 
+Prompt 1: 
+Vamos supor uma situação hipotética de uma pessoa que ao final do mês, restou uma quantia de dinheiro dentro dos 30% que são dos desejos pessoais. Financeiramente falando quais tipos de maneiras inteligentes ela pode fazer em aproveitar esse dinheiro de forma que no futuro isso faça uma diferença positiva?
+
+Resposta da IA:
+Se uma pessoa consegue terminar o mês com sobra dentro dos 30% destinados aos Desejos Pessoais, ela atingiu um nível excelente de disciplina financeira. De acordo com as fontes, existem diversas maneiras inteligentes de redirecionar esse excedente para que ele gere um impacto positivo no futuro:
+1. Acelerar a Quitação de Dívidas (Amortização Ativa)
+A maneira mais imediata de transformar esse dinheiro em lucro futuro é pagar dívidas. Nas fontes, qualquer valor pago acém do mínimo exigido em empréstimos ou cartões de crédito não é considerado um "gasto", mas sim Investimento/Poupança.
+Vantagem: Você economiza o montante que seria gasto com juros futuros, o que as fontes descrevem como um dos melhores retornos garantidos sobre o seu dinheiro.
+2. Fortalecer o Fundo de Segurança (Sleep Tight Fund)
+Se a reserva de emergência ainda não cobre seis meses de despesas essenciais, esse excedente deve ser usado para completar esse "escudo".
+Aplicação Prática: Manter esse valor em uma conta de fácil acesso, como o Tesouro Selic, garante que imprevistos (como consertos de carro ou problemas de saúde) não forcem você a retornar ao ciclo de dívidas no cartão de crédito.
+3. Investir em Riqueza de Longo Prazo
+Uma vez que as dívidas e o fundo de reserva estejam em ordem, o excedente dos 30% pode ser movido para a categoria de 20% (Futuro) para acelerar a independência financeira.
+Previdência e Investimentos: Contribuir a mais para planos de aposentadoria ou investir em fundos de índice (index funds). As fontes destacam que os juros compostos trabalham com muito mais força quando você aumenta os aportes o mais cedo possível.
+Aportes Automáticos: As fontes sugerem automatizar essa transferência para que o "eu do futuro" receba o dinheiro antes que surja a tentação de gastá-lo no presente.
+4. Criar o "Smile Money" (Dinheiro para Sorrir)
+Uma estratégia mencionada é usar sobras de curto prazo para planejar desejos maiores de longo prazo, evitando que eles sobrecarreguem o orçamento no futuro.
+Exemplos: Guardar esse excedente para uma viagem especial, a troca programada de um carro ou um curso de especialização.
+Manutenção Preventiva: Criar um fundo para manutenção da casa ou do carro. Isso transforma uma potencial "emergência" futura em um gasto planejado e controlado.
+5. Investir em Capital Humano
+As fontes sugerem que o aumento da renda é uma das chaves para o equilíbrio financeiro. Usar o dinheiro dos desejos para educação e treinamento especializado é uma forma inteligente de garantir salários maiores no futuro.
+Propósito: Se uma viagem ou curso puder gerar networking ou novas habilidades que melhorem sua situação financeira, esse gasto "voluntário" tem um retorno de investimento real.
+6. Reserva para "Pequenos Imprevistos"
+Para quem usa o método do dinheiro em espécie (cash), uma dica prática é guardar parte do que sobrou no fundo da gaveta (cerca de R$ 50 a R$ 100) para cobrir pequenos "desejos inesperados" do mês seguinte, como um presente de aniversário de última hora, sem precisar tocar na reserva de emergência ou no cartão.
+Em resumo, a regra 50/30/20 é um teto para gastos, não uma meta obrigatória de consumo. Se você gasta menos que 30% em desejos, o caminho mais inteligente é "alimentar as plantas" do médio e longo prazo (projetos e aposentadoria), garantindo que seu padrão de vida futuro seja ainda melhor que o atual.
+
+Estratégia:
+Minha estratégia foi já começando a apresentar uma situação hipotética para o modelo para que ele já saiba para qual tipo de situação que é para elaborar uma solução. Após isso pedi para que ele me mostrasse as maneiras que poderiam ser feitas para o problema. A única dificuldade ai foi elaborar uma situação hipotética muito bem relacionada ao meu pedido e que o modelo compreenda ela bem.
