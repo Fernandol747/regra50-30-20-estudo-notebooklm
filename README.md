@@ -58,3 +58,8 @@ Vantagem Financeira: Ao pagar parcelas extras, você recebe um retorno garantido
 Esta parte é destinada a objetivos de médio prazo ou ativos que gerem renda passiva.
 Tesouro Prefixado: Bom para planos com data marcada (ex: trocar de carro em 3 anos), pois você sabe exatamente quanto receberá no vencimento, desde que respeite o prazo.
 Fundos Imobiliários ou Dividendos: Embora as fontes foquem mais em fundos de índice, o objetivo nesta fatia é alimentar a "planta do longo prazo" para que ela gere frutos (renda mensal) no futuro.
+
+<img width="1920" height="1080" alt="Captura de Tela (77)" src="https://github.com/user-attachments/assets/a5c68b3a-8059-4165-adb2-9c7252f968e7" />
+
+Estratégia:
+Nesse prompt, o modelo ja estava bem compreendido com o assunto, então eu fui mais direto e um pouco menos específico com ele e mesmo assim ele me  entregou o que queria. Eu comecei dando o objetivo da tarefa e ao final fazer com que ele me retornasse uma tabela na qual esta sendo exibida a cima. A minha dificuldade foi deixar o máximo específico para que o modelo entenda que o exemplo do salário de R$5000,00 não era para pegar esse valor e colocar como se ele fosse os 20% e sim pegar os 20% desse valor.
