@@ -63,3 +63,121 @@ Fundos Imobiliários ou Dividendos: Embora as fontes foquem mais em fundos de í
 
 Estratégia:
 Nesse prompt, o modelo ja estava bem compreendido com o assunto, então eu fui mais direto e um pouco menos específico com ele e mesmo assim ele me  entregou o que queria. Eu comecei dando o objetivo da tarefa e ao final fazer com que ele me retornasse uma tabela na qual esta sendo exibida a cima. A minha dificuldade foi deixar o máximo específico para que o modelo entenda que o exemplo do salário de R$5000,00 não era para pegar esse valor e colocar como se ele fosse os 20% e sim pegar os 20% desse valor.
+
+# Miniguia de Estudo
+
+[Vídeo explicativo](https://github.com/user-attachments/assets/dc7cfc59-43e3-4506-8765-defe1e08f4de)
+[The_50_30_20_Blueprint.pdf](https://github.com/user-attachments/files/30245413/The_50_30_20_Blueprint.pdf)
+
+# Conceitos aprendidos
+
+Este repositório contém os conceitos fundamentais para a aplicação prática da **Regra 50/30/20** e metodologias de organização das finanças pessoais.
+
+---
+
+## 🔤 Conceitos por Ordem Alfabética
+
+### A
+
+* **Amortização Ativa:** Refere-se ao pagamento de dívidas além do mínimo exigido. Diferente do pagamento mínimo (que é uma Necessidade), a amortização extra é considerada parte da categoria de Poupança/Futuro, pois reduz o principal e os juros futuros, aumentando o seu patrimônio líquido.
+
+---
+
+### D
+
+* **Desejos (*Wants*):** Categoria que compõe **30% da renda líquida**. Inclui despesas discricionárias que aumentam a qualidade de vida, mas que podem ser cortadas em caso de crise sem danos à sobrevivência básica (ex.: *streaming*, jantares fora, viagens e *hobbies*).
+* **Dívidas que "Roubam do Amanhã" (*Steal-from-Tomorrow Debt*):** Termo usado para descrever dívidas de alto custo, como faturas de cartão de crédito no rotativo e empréstimos pessoais, que não geram ativos e consomem a renda futura para pagar o consumo passado.
+
+---
+
+### E
+
+* **Estágios da Poupança:** Sequência lógica para utilizar os 20% destinados ao futuro:
+  1. **Estágio 1:** Criar uma reserva inicial de R$ 1.000 para pequenos imprevistos.
+  2. **Estágio 2:** Quitar todas as dívidas que "roubam do amanhã".
+  3. **Estágio 3:** Construir o Fundo de Segurança completo.
+  4. **Estágio 4:** Focar em riqueza vitalícia (aposentadoria, quitação da casa e grandes sonhos).
+
+---
+
+### F
+
+* **Freadas Mentais (*Thinking Traps*):** Barreiras psicológicas que impedem o sucesso financeiro, como o pensamento "tudo ou nada" (desistir por não ser perfeito), a "espera pelo coelhinho do dinheiro" (contar com sorte ou loteria) e o "apontar de dedos" (culpar terceiros pela própria situação).
+* **Fundo de Segurança (*Sleep Tight Fund*):** Reserva financeira equivalente a 6 meses de despesas essenciais (Necessidades). Deve ser mantida em investimentos de alta liquidez e baixo risco para garantir estabilidade e paz de espírito contra imprevistos como desemprego ou doenças.
+* **Fundos de Índice (*Index Funds*):** Investimentos recomendados para aposentadoria por serem diversificados e de baixo custo, replicando índices de mercado (como o S&P 500).
+
+---
+
+### N
+
+* **Necessidades (*Must-Haves*):** Categoria que deve consumir no máximo **50% da renda líquida**. Inclui obrigações essenciais para a sobrevivência e dignidade, como moradia, serviços públicos (água, luz), transporte básico, saúde e alimentação mínima. O critério para identificar uma necessidade é: *"Eu conseguiria viver sem isso por seis meses?"*.
+
+---
+
+### P
+
+* **Pagar-se Primeiro:** Conceito de priorizar a transferência dos 20% para a poupança assim que o salário cai na conta, antes mesmo de pagar os desejos, garantindo que o hábito de poupar seja cumprido de forma automatizada e consistente.
+
+---
+
+### R
+
+* **Renda Líquida (*After-Tax Income*):** É a base de cálculo de toda a regra. Refere-se ao valor total que efetivamente entra na conta bancária após a dedução de impostos (IRPF, INSS) e descontos obrigatórios em folha.
+
+---
+
+### T
+
+* **Tesouro Direto:** Sistema de investimento em títulos públicos sugerido para organizar a carteira de acordo com os prazos:
+  * **Tesouro Selic:** Indicado para o curto prazo e reserva de emergência devido à máxima segurança e liquidez diária.
+  * **Tesouro IPCA+:** Indicado para a aposentadoria e metas de longo prazo por proteger o poder de compra contra a inflação.
+  * **Tesouro Prefixado:** Indicado para metas com data marcada (médio prazo), onde a taxa de retorno é fixada no momento da compra.
+
+---
+
+### V
+
+* **Vinte para o Amanhã (*Twenty for Tomorrow*):** A parcela de **20% da renda líquida** dedicada exclusivamente ao futuro (poupança, investimentos e pagamento acelerado de dívidas).
+
+# Prompts reutilizaveis
+
+Com base no método **50/30/20** detalhado nas fontes e em nossa conversa, aqui estão prompts reutilizáveis que você pode usar para aplicar a regra em diferentes contextos:
+
+### 1. Para Categorização de Gastos
+"Atue como um consultor financeiro baseado no livro *All Your Worth*. Analise a seguinte lista de despesas: **[Insira seus gastos aqui]**. Classifique cada item como **Necessidade**, **Desejo** ou **Futuro (Poupança/Dívida)**. Use o 'teste de essencialidade' (consequências graves se não pagar) para justificar a classificação de itens ambíguos, como assinaturas e transporte".
+
+### 2. Para Planejamento com Renda Baixa ou Variável
+"Minha renda líquida mensal é de **[Valor]**, mas meus custos fixos (moradia, alimentação básica e contas) já consomem **[X]%** do meu orçamento. Como posso adaptar os percentuais da regra 50/30/20 (ex: 70/20/10 ou 80/10/10) para criar o hábito de poupar sem comprometer minha sobrevivência? Foque em cortes nos 'dólares' e não apenas nos 'centavos'".
+
+### 3. Para Estratégia de Quitação de Dívidas
+"Possuo as seguintes dívidas: **[Liste dívidas e juros]**. Identifique quais são as **'Dívidas que Roubam do Amanhã'** (*Steal-from-Tomorrow Debt*). Com base no método de Elizabeth Warren, elabore um plano de pagamento usando exclusivamente os **20% destinados ao futuro**, mantendo apenas os pagamentos mínimos nas outras dívidas enquanto foco em uma de cada vez".
+
+### 4. Para Implementação do "Vinte para o Amanhã"
+"Estou pronto para começar a investir meus 20%. Explique como devo distribuir esse valor entre os **4 Estágios da Poupança**: 
+1. Reserva inicial de R\$ 1.000; 
+2. Quitação de dívidas de alto custo; 
+3. Fundo de Segurança (6 meses de necessidades); 
+4. Riqueza Vitalícia (Aposentadoria e Amortização da Casa)".
+
+### 5. Para Controle de Desejos Pessoais
+"Sinto que estou gastando demais impulsivamente na categoria de **Desejos (30%)**. Ajude-me a criar uma barreira comportamental, sugerindo como posso migrar para um sistema de **gastos apenas em dinheiro (cash)** ou contas separadas para lazer, garantindo que eu não 'roube' da fatia das Necessidades ou da Poupança".
+
+### 6. Para Decisão de Compra de Imóvel
+"Quero comprar uma casa de **[Valor]**. Calcule se essa aquisição cabe na regra 50/30/20 considerando que as Necessidades totais (incluindo novo financiamento, seguro, impostos e manutenção) não podem ultrapassar 50% da minha renda líquida. Avalie também se possuo o **pagamento inicial recomendado de 10% a 20%** para evitar juros abusivos".
+
+### 7. Para Investimento em Aposentadoria (Estágio 4)
+"Considerando que já tenho meu Fundo de Segurança, explique como investir 10% da minha renda em **Fundos de Índice (Index Funds)** e **Tesouro Direto (IPCA+)**. Justifique por que essa estratégia de 'baixo custo e diversificada' é recomendada pelas fontes como superior à tentativa de escolher ações individuais".
+
+### Tabela de Referência para Simulação Rapida (Renda de R\$ 5.000,00)
+Ao usar esses prompts, você pode pedir para a IA completar esta tabela baseada na sua realidade:
+
+| Categoria | % Sugerida | Valor (Exemplo R\$ 5k) | Exemplos Incluídos |
+| :--- | :---: | :--- | :--- |
+| **Necessidades** | 50% | R\$ 2.500 | Aluguel, Luz, Água, Transporte, Saúde. |
+| **Desejos** | 30% | R\$ 1.500 | Restaurantes, Streaming, Hobbies, Viagens. |
+| **Futuro** | 20% | R\$ 1.000 | Reserva, Dívidas extras, Investimentos. |
+
+**Dica de uso:** Sempre forneça seu **salário líquido** (após impostos retidos na fonte) para que os prompts gerem cálculos precisos.
+
+
+
